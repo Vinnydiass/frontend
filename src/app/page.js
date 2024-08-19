@@ -8,7 +8,7 @@ export default function Home() {
       <Button variant="primary">Primary</Button>{' '}
       <Cabecalho/>
       <a href="/fundamentos">Pagina fundamentos</a> <br/>
-    <Link href="/fundamentos">Página fundamentos</Link>
+      <Link href="/fundamentos">Página fundamentos</Link>
     </main>
   );
 }

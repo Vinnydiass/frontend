@@ -19,7 +19,7 @@ export default function fundamentos(){
         <Link href="/">Pagina inicial</Link>
       
         <h1>Fundamentos</h1>
-        <p>DWDW</p>
+       
         <Cabecalho/>
         </Container>
         </>
