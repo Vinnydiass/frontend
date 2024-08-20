@@ -15,12 +15,12 @@ export default function fundamentos(){
         <Alert>
             Atenção
         </Alert>
-        <a href="/">Pagina inicial</a> <br/>
-        <Link href="/">Pagina inicial</Link>
+        <Link href="/">Pagina inicial</Link><br/>
+        <Link href="/clientes">Página Clientes</Link>
       
         <h1>Fundamentos</h1>
        
-        <Cabecalho/>
+        <Cabecalho/> 
         </Container>
         </>
         
